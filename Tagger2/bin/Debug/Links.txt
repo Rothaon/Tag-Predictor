@@ -1516,3 +1516,5 @@ https://static1.e621.net/data/sample/e1/ad/e1adb01cfacc7e37e5de88ecb2412f70.jpg
 https://static1.e621.net/data/sample/00/d1/00d14c97f02f303ac4ac516da349c6f5.jpg
 https://static1.e621.net/data/sample/9d/5e/9d5e1c4abe9c28b8529e0f4df2804d2d.jpg
 https://static1.e621.net/data/sample/4c/72/4c7232177bb768c51b9d6c17dd9c09ed.jpg
+https://static1.e621.net/data/sample/e1/44/e144792bc61beb37e9f6882d3bd64099.jpg
+https://static1.e621.net/data/sample/9a/5c/9a5cb25dcc504883c0b98f2869350258.jpg

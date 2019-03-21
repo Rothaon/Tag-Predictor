@@ -2,7 +2,7 @@
 <ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Entry>
     <Key xsi:type="xsd:string">anthro</Key>
-    <Value xsi:type="xsd:int">-439</Value>
+    <Value xsi:type="xsd:int">-437</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">baraking</Key>
@@ -22,15 +22,15 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">digital_media_(artwork)</Key>
-    <Value xsi:type="xsd:int">-35</Value>
+    <Value xsi:type="xsd:int">-34</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">duo</Key>
-    <Value xsi:type="xsd:int">-12</Value>
+    <Value xsi:type="xsd:int">-11</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">erection</Key>
-    <Value xsi:type="xsd:int">384</Value>
+    <Value xsi:type="xsd:int">385</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">father</Key>
@@ -46,11 +46,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">hi_res</Key>
-    <Value xsi:type="xsd:int">-25</Value>
+    <Value xsi:type="xsd:int">-23</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">humanoid_penis</Key>
-    <Value xsi:type="xsd:int">388</Value>
+    <Value xsi:type="xsd:int">389</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">imminent_incest</Key>
@@ -66,11 +66,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">male</Key>
-    <Value xsi:type="xsd:int">-460</Value>
+    <Value xsi:type="xsd:int">-458</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">mammal</Key>
-    <Value xsi:type="xsd:int">-525</Value>
+    <Value xsi:type="xsd:int">-523</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">monochrome</Key>
@@ -78,7 +78,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">nipples</Key>
-    <Value xsi:type="xsd:int">521</Value>
+    <Value xsi:type="xsd:int">522</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">parent</Key>
@@ -94,7 +94,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">penis</Key>
-    <Value xsi:type="xsd:int">224</Value>
+    <Value xsi:type="xsd:int">225</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">sleeping</Key>
@@ -110,7 +110,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tongue</Key>
-    <Value xsi:type="xsd:int">10</Value>
+    <Value xsi:type="xsd:int">12</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tongue_out</Key>
@@ -122,7 +122,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">abs</Key>
-    <Value xsi:type="xsd:int">1033</Value>
+    <Value xsi:type="xsd:int">1035</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">absurd_res</Key>
@@ -134,11 +134,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">biceps</Key>
-    <Value xsi:type="xsd:int">698</Value>
+    <Value xsi:type="xsd:int">700</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">claws</Key>
-    <Value xsi:type="xsd:int">207</Value>
+    <Value xsi:type="xsd:int">208</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cover</Key>
@@ -154,11 +154,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">hair</Key>
-    <Value xsi:type="xsd:int">25</Value>
+    <Value xsi:type="xsd:int">26</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">horn</Key>
-    <Value xsi:type="xsd:int">65</Value>
+    <Value xsi:type="xsd:int">66</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">lizard</Key>
@@ -166,11 +166,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">long_hair</Key>
-    <Value xsi:type="xsd:int">-6</Value>
+    <Value xsi:type="xsd:int">-5</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">looking_at_viewer</Key>
-    <Value xsi:type="xsd:int">-87</Value>
+    <Value xsi:type="xsd:int">-86</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">monoeye_(artist)</Key>
@@ -178,11 +178,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">muscular</Key>
-    <Value xsi:type="xsd:int">1141</Value>
+    <Value xsi:type="xsd:int">1143</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">open_mouth</Key>
-    <Value xsi:type="xsd:int">43</Value>
+    <Value xsi:type="xsd:int">45</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">purple_skin</Key>
@@ -202,15 +202,15 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">simple_background</Key>
-    <Value xsi:type="xsd:int">-406</Value>
+    <Value xsi:type="xsd:int">-404</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">solo</Key>
-    <Value xsi:type="xsd:int">-611</Value>
+    <Value xsi:type="xsd:int">-610</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">teeth</Key>
-    <Value xsi:type="xsd:int">250</Value>
+    <Value xsi:type="xsd:int">252</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">text</Key>
@@ -246,15 +246,15 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">bulge</Key>
-    <Value xsi:type="xsd:int">11</Value>
+    <Value xsi:type="xsd:int">12</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">clothing</Key>
-    <Value xsi:type="xsd:int">-174</Value>
+    <Value xsi:type="xsd:int">-173</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">fur</Key>
-    <Value xsi:type="xsd:int">-71</Value>
+    <Value xsi:type="xsd:int">-70</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">guardians_of_the_galaxy</Key>
@@ -270,7 +270,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">paws</Key>
-    <Value xsi:type="xsd:int">-8</Value>
+    <Value xsi:type="xsd:int">-7</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pink_penis</Key>
@@ -318,7 +318,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">body_hair</Key>
-    <Value xsi:type="xsd:int">117</Value>
+    <Value xsi:type="xsd:int">118</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">briefs</Key>
@@ -330,7 +330,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">sweat</Key>
-    <Value xsi:type="xsd:int">19</Value>
+    <Value xsi:type="xsd:int">20</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">underwear</Key>
@@ -346,7 +346,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">belly</Key>
-    <Value xsi:type="xsd:int">71</Value>
+    <Value xsi:type="xsd:int">72</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_belly</Key>
@@ -358,7 +358,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">blue_eyes</Key>
-    <Value xsi:type="xsd:int">65</Value>
+    <Value xsi:type="xsd:int">66</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">blue_nose</Key>
@@ -370,11 +370,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">canine</Key>
-    <Value xsi:type="xsd:int">-171</Value>
+    <Value xsi:type="xsd:int">-170</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">fluffy</Key>
-    <Value xsi:type="xsd:int">-13</Value>
+    <Value xsi:type="xsd:int">-12</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">fluffy_tail</Key>
@@ -386,7 +386,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">front_view</Key>
-    <Value xsi:type="xsd:int">107</Value>
+    <Value xsi:type="xsd:int">109</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">girly</Key>
@@ -426,7 +426,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">markings</Key>
-    <Value xsi:type="xsd:int">51</Value>
+    <Value xsi:type="xsd:int">52</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">morbidly_obese</Key>
@@ -438,15 +438,15 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">navel</Key>
-    <Value xsi:type="xsd:int">18</Value>
+    <Value xsi:type="xsd:int">19</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">neck_tuft</Key>
-    <Value xsi:type="xsd:int">9</Value>
+    <Value xsi:type="xsd:int">10</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">nude</Key>
-    <Value xsi:type="xsd:int">147</Value>
+    <Value xsi:type="xsd:int">148</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">obese</Key>
@@ -466,11 +466,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">smile</Key>
-    <Value xsi:type="xsd:int">-86</Value>
+    <Value xsi:type="xsd:int">-85</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">standing</Key>
-    <Value xsi:type="xsd:int">68</Value>
+    <Value xsi:type="xsd:int">70</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">thick_thighs</Key>
@@ -482,7 +482,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tuft</Key>
-    <Value xsi:type="xsd:int">32</Value>
+    <Value xsi:type="xsd:int">33</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">white_fur</Key>
@@ -518,7 +518,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">male/male</Key>
-    <Value xsi:type="xsd:int">213</Value>
+    <Value xsi:type="xsd:int">214</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">okadu</Key>
@@ -554,15 +554,15 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">fellatio</Key>
-    <Value xsi:type="xsd:int">57</Value>
+    <Value xsi:type="xsd:int">58</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">oral</Key>
-    <Value xsi:type="xsd:int">71</Value>
+    <Value xsi:type="xsd:int">72</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">sex</Key>
-    <Value xsi:type="xsd:int">186</Value>
+    <Value xsi:type="xsd:int">187</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">walk-in</Key>
@@ -594,7 +594,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">balls</Key>
-    <Value xsi:type="xsd:int">359</Value>
+    <Value xsi:type="xsd:int">360</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">bottomless</Key>
@@ -622,7 +622,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">clothed</Key>
-    <Value xsi:type="xsd:int">-20</Value>
+    <Value xsi:type="xsd:int">-19</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cum</Key>
@@ -842,7 +842,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">penetration</Key>
-    <Value xsi:type="xsd:int">171</Value>
+    <Value xsi:type="xsd:int">172</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">size_difference</Key>
@@ -1006,7 +1006,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">black_hair</Key>
-    <Value xsi:type="xsd:int">26</Value>
+    <Value xsi:type="xsd:int">27</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">building</Key>
@@ -1314,7 +1314,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_penis</Key>
-    <Value xsi:type="xsd:int">236</Value>
+    <Value xsi:type="xsd:int">237</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">black_penis</Key>
@@ -1670,7 +1670,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">black_nose</Key>
-    <Value xsi:type="xsd:int">164</Value>
+    <Value xsi:type="xsd:int">165</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">blue_fur</Key>
@@ -1690,19 +1690,19 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">ear_piercing</Key>
-    <Value xsi:type="xsd:int">52</Value>
+    <Value xsi:type="xsd:int">53</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">multicolored_fur</Key>
-    <Value xsi:type="xsd:int">106</Value>
+    <Value xsi:type="xsd:int">107</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">piercing</Key>
-    <Value xsi:type="xsd:int">151</Value>
+    <Value xsi:type="xsd:int">152</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">portrait</Key>
-    <Value xsi:type="xsd:int">-16</Value>
+    <Value xsi:type="xsd:int">-15</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">serix</Key>
@@ -1790,7 +1790,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pubes</Key>
-    <Value xsi:type="xsd:int">217</Value>
+    <Value xsi:type="xsd:int">218</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">reclining</Key>
@@ -1850,7 +1850,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">jewelry</Key>
-    <Value xsi:type="xsd:int">62</Value>
+    <Value xsi:type="xsd:int">63</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">lapres</Key>
@@ -1886,7 +1886,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">two_tone_fur</Key>
-    <Value xsi:type="xsd:int">41</Value>
+    <Value xsi:type="xsd:int">42</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">water</Key>
@@ -1894,7 +1894,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">watermark</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">erection_under_clothes</Key>
@@ -1902,7 +1902,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">muscular_male</Key>
-    <Value xsi:type="xsd:int">801</Value>
+    <Value xsi:type="xsd:int">803</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">outerscape</Key>
@@ -1910,7 +1910,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pecs</Key>
-    <Value xsi:type="xsd:int">940</Value>
+    <Value xsi:type="xsd:int">942</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tenting</Key>
@@ -1918,11 +1918,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">topless</Key>
-    <Value xsi:type="xsd:int">171</Value>
+    <Value xsi:type="xsd:int">172</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">beard</Key>
-    <Value xsi:type="xsd:int">103</Value>
+    <Value xsi:type="xsd:int">104</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">blue_background</Key>
@@ -1934,7 +1934,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">facial_hair</Key>
-    <Value xsi:type="xsd:int">116</Value>
+    <Value xsi:type="xsd:int">117</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">feathered_wings</Key>
@@ -2306,7 +2306,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eyes_closed</Key>
-    <Value xsi:type="xsd:int">30</Value>
+    <Value xsi:type="xsd:int">31</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">reverse_missionary_position</Key>
@@ -2390,7 +2390,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">brown_hair</Key>
-    <Value xsi:type="xsd:int">74</Value>
+    <Value xsi:type="xsd:int">75</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">corporalbackrubs</Key>
@@ -2494,7 +2494,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">three-quarter_portrait</Key>
-    <Value xsi:type="xsd:int">27</Value>
+    <Value xsi:type="xsd:int">28</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">underwear_down</Key>
@@ -2686,11 +2686,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">vein</Key>
-    <Value xsi:type="xsd:int">403</Value>
+    <Value xsi:type="xsd:int">404</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">veiny_penis</Key>
-    <Value xsi:type="xsd:int">320</Value>
+    <Value xsi:type="xsd:int">321</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">alternate_color</Key>
@@ -2762,11 +2762,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">facial_markings</Key>
-    <Value xsi:type="xsd:int">12</Value>
+    <Value xsi:type="xsd:int">13</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">food</Key>
-    <Value xsi:type="xsd:int">-29</Value>
+    <Value xsi:type="xsd:int">-28</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">genital_slit</Key>
@@ -3274,7 +3274,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pose</Key>
-    <Value xsi:type="xsd:int">113</Value>
+    <Value xsi:type="xsd:int">114</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">wide_hips</Key>
@@ -3394,7 +3394,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">biped</Key>
-    <Value xsi:type="xsd:int">33</Value>
+    <Value xsi:type="xsd:int">34</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">braixen</Key>
@@ -3506,7 +3506,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">hairy</Key>
-    <Value xsi:type="xsd:int">45</Value>
+    <Value xsi:type="xsd:int">46</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">kokuhane</Key>
@@ -3562,7 +3562,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">antlers</Key>
-    <Value xsi:type="xsd:int">7</Value>
+    <Value xsi:type="xsd:int">8</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">chirr</Key>
@@ -3802,7 +3802,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">one_eye_closed</Key>
-    <Value xsi:type="xsd:int">7</Value>
+    <Value xsi:type="xsd:int">9</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pool_toy</Key>
@@ -3822,11 +3822,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">wink</Key>
-    <Value xsi:type="xsd:int">-9</Value>
+    <Value xsi:type="xsd:int">-8</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">5_fingers</Key>
-    <Value xsi:type="xsd:int">143</Value>
+    <Value xsi:type="xsd:int">144</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">beverage</Key>
@@ -3834,7 +3834,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cheek_tuft</Key>
-    <Value xsi:type="xsd:int">4</Value>
+    <Value xsi:type="xsd:int">5</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">coffee</Key>
@@ -3842,7 +3842,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">countershading</Key>
-    <Value xsi:type="xsd:int">24</Value>
+    <Value xsi:type="xsd:int">25</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eyebrows</Key>
@@ -3854,7 +3854,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">holding_object</Key>
-    <Value xsi:type="xsd:int">47</Value>
+    <Value xsi:type="xsd:int">48</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">kayjay_(kayjayfromfinland)</Key>
@@ -4390,7 +4390,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">bracelet</Key>
-    <Value xsi:type="xsd:int">27</Value>
+    <Value xsi:type="xsd:int">28</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eidobunny</Key>
@@ -4442,7 +4442,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">happy</Key>
-    <Value xsi:type="xsd:int">-19</Value>
+    <Value xsi:type="xsd:int">-18</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">humor</Key>
@@ -4474,7 +4474,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pants</Key>
-    <Value xsi:type="xsd:int">15</Value>
+    <Value xsi:type="xsd:int">16</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tyroo</Key>
@@ -5030,7 +5030,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_muscles</Key>
-    <Value xsi:type="xsd:int">245</Value>
+    <Value xsi:type="xsd:int">246</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">body_writing</Key>
@@ -5058,7 +5058,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">chest_hair</Key>
-    <Value xsi:type="xsd:int">94</Value>
+    <Value xsi:type="xsd:int">95</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cum_pool</Key>
@@ -5074,7 +5074,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">leather</Key>
-    <Value xsi:type="xsd:int">19</Value>
+    <Value xsi:type="xsd:int">20</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">male_domination</Key>
@@ -5446,7 +5446,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">thick_penis</Key>
-    <Value xsi:type="xsd:int">175</Value>
+    <Value xsi:type="xsd:int">176</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_tail</Key>
@@ -6006,7 +6006,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">oral_penetration</Key>
-    <Value xsi:type="xsd:int">34</Value>
+    <Value xsi:type="xsd:int">35</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">pinned</Key>
@@ -6726,7 +6726,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">belt</Key>
-    <Value xsi:type="xsd:int">40</Value>
+    <Value xsi:type="xsd:int">41</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">simon_palmer</Key>
@@ -7042,7 +7042,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">huge_muscles</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">wolverine</Key>
@@ -7054,11 +7054,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">huge_penis</Key>
-    <Value xsi:type="xsd:int">99</Value>
+    <Value xsi:type="xsd:int">100</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">relaxing</Key>
-    <Value xsi:type="xsd:int">71</Value>
+    <Value xsi:type="xsd:int">72</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">alexyorim</Key>
@@ -7398,7 +7398,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">triceps</Key>
-    <Value xsi:type="xsd:int">19</Value>
+    <Value xsi:type="xsd:int">20</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">two_tone_skin</Key>
@@ -7750,7 +7750,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">brown_nose</Key>
-    <Value xsi:type="xsd:int">54</Value>
+    <Value xsi:type="xsd:int">55</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cloth</Key>
@@ -7930,7 +7930,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">object_in_mouth</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tatsumichi</Key>
@@ -8170,7 +8170,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">snout</Key>
-    <Value xsi:type="xsd:int">13</Value>
+    <Value xsi:type="xsd:int">14</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eijartheyordle</Key>
@@ -8774,7 +8774,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">barazoku</Key>
-    <Value xsi:type="xsd:int">8</Value>
+    <Value xsi:type="xsd:int">9</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eroborus</Key>
@@ -8790,7 +8790,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">manly</Key>
-    <Value xsi:type="xsd:int">151</Value>
+    <Value xsi:type="xsd:int">153</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">questionable_consent</Key>
@@ -8990,7 +8990,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">hand_on_balls</Key>
-    <Value xsi:type="xsd:int">15</Value>
+    <Value xsi:type="xsd:int">16</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">white_horn</Key>
@@ -10102,7 +10102,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">humanoid_hands</Key>
-    <Value xsi:type="xsd:int">29</Value>
+    <Value xsi:type="xsd:int">30</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">kannos</Key>
@@ -12690,7 +12690,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">perspective</Key>
-    <Value xsi:type="xsd:int">0</Value>
+    <Value xsi:type="xsd:int">1</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">soap</Key>
@@ -13042,7 +13042,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">creek</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">holding_leg</Key>
@@ -13830,7 +13830,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">holding_food</Key>
-    <Value xsi:type="xsd:int">-1</Value>
+    <Value xsi:type="xsd:int">0</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">theo_hightower</Key>
@@ -14874,7 +14874,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">vegetable</Key>
-    <Value xsi:type="xsd:int">-1</Value>
+    <Value xsi:type="xsd:int">0</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">anime</Key>
@@ -15018,7 +15018,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">eating</Key>
-    <Value xsi:type="xsd:int">-7</Value>
+    <Value xsi:type="xsd:int">-6</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">remote_control</Key>
@@ -15298,7 +15298,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">gold_(metal)</Key>
-    <Value xsi:type="xsd:int">5</Value>
+    <Value xsi:type="xsd:int">6</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">rajii</Key>
@@ -15370,7 +15370,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">foreshortening</Key>
-    <Value xsi:type="xsd:int">-1</Value>
+    <Value xsi:type="xsd:int">0</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">tora</Key>
@@ -17222,7 +17222,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">male_penetrating</Key>
-    <Value xsi:type="xsd:int">26</Value>
+    <Value xsi:type="xsd:int">27</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">anyare</Key>
@@ -17618,7 +17618,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_biceps</Key>
-    <Value xsi:type="xsd:int">108</Value>
+    <Value xsi:type="xsd:int">109</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">moocifer_(artist)</Key>
@@ -22502,7 +22502,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">carrot</Key>
-    <Value xsi:type="xsd:int">-1</Value>
+    <Value xsi:type="xsd:int">0</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">charging</Key>
@@ -23110,7 +23110,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">serratus</Key>
-    <Value xsi:type="xsd:int">-9</Value>
+    <Value xsi:type="xsd:int">-8</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">buck_(ice_age)</Key>
@@ -23478,7 +23478,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">open_smile</Key>
-    <Value xsi:type="xsd:int">5</Value>
+    <Value xsi:type="xsd:int">6</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">brushing_teeth</Key>
@@ -23970,7 +23970,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">obliques</Key>
-    <Value xsi:type="xsd:int">8</Value>
+    <Value xsi:type="xsd:int">9</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">magazine_cover</Key>
@@ -26242,7 +26242,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">big_pecs</Key>
-    <Value xsi:type="xsd:int">11</Value>
+    <Value xsi:type="xsd:int">12</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">börje</Key>
@@ -28658,7 +28658,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">depth_of_field</Key>
-    <Value xsi:type="xsd:int">0</Value>
+    <Value xsi:type="xsd:int">1</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">divenka</Key>
@@ -30434,7 +30434,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">cel_shading</Key>
-    <Value xsi:type="xsd:int">9</Value>
+    <Value xsi:type="xsd:int">10</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">ango76</Key>
@@ -30850,7 +30850,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">head_tuft</Key>
-    <Value xsi:type="xsd:int">-2</Value>
+    <Value xsi:type="xsd:int">-1</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">nasus_(lol)</Key>
@@ -32758,11 +32758,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">re:zero</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">ricardo_welkin</Key>
-    <Value xsi:type="xsd:int">2</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">ganondorf</Key>
@@ -38114,7 +38114,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">fur_tuft</Key>
-    <Value xsi:type="xsd:int">18</Value>
+    <Value xsi:type="xsd:int">19</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">jvducky</Key>
@@ -39226,7 +39226,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">short_fur</Key>
-    <Value xsi:type="xsd:int">5</Value>
+    <Value xsi:type="xsd:int">6</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">soft_shading</Key>
@@ -39906,11 +39906,11 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">countershade_face</Key>
-    <Value xsi:type="xsd:int">8</Value>
+    <Value xsi:type="xsd:int">9</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">countershade_torso</Key>
-    <Value xsi:type="xsd:int">9</Value>
+    <Value xsi:type="xsd:int">10</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">countershade_tail</Key>
@@ -42834,7 +42834,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">primodrago</Key>
-    <Value xsi:type="xsd:int">1</Value>
+    <Value xsi:type="xsd:int">3</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">draconicmentalist</Key>
@@ -53434,7 +53434,7 @@
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">chest_markings</Key>
-    <Value xsi:type="xsd:int">0</Value>
+    <Value xsi:type="xsd:int">1</Value>
   </Entry>
   <Entry>
     <Key xsi:type="xsd:string">leafside_inc.</Key>
@@ -56783,5 +56783,37 @@
   <Entry>
     <Key xsi:type="xsd:string">unzipping</Key>
     <Value xsi:type="xsd:int">-1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">canid</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">canis</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">domestic_dog</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">bottomwear</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">cervid</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">offering_food</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">offering_to_viewer</Key>
+    <Value xsi:type="xsd:int">1</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">outstretched_arm</Key>
+    <Value xsi:type="xsd:int">1</Value>
   </Entry>
 </ArrayOfEntry>
