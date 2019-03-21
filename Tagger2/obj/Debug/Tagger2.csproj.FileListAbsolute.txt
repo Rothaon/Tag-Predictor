@@ -16,3 +16,13 @@ C:\Programacion\Basic\TaggerPredictor\Tagger2\obj\Debug\Tagger2.csproj.GenerateR
 C:\Programacion\Basic\TaggerPredictor\Tagger2\bin\Debug\Tagger2.exe
 C:\Programacion\Basic\TaggerPredictor\Tagger2\bin\Debug\Tagger2.pdb
 C:\Programacion\Basic\TaggerPredictor\Tagger2\obj\Debug\TaggerPred.Form1.resources
+C:\Demidovich\Code\Tag-Predictor\Tagger2\bin\Debug\Tagger2.exe.config
+C:\Demidovich\Code\Tag-Predictor\Tagger2\bin\Debug\Tagger2.exe
+C:\Demidovich\Code\Tag-Predictor\Tagger2\bin\Debug\Tagger2.pdb
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.csprojAssemblyReference.cache
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\TaggerPred.Form1.resources
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.Properties.Resources.resources
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.csproj.GenerateResource.cache
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.csproj.CoreCompileInputs.cache
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.exe
+C:\Demidovich\Code\Tag-Predictor\Tagger2\obj\Debug\Tagger2.pdb
